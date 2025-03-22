@@ -35,6 +35,5 @@ if __name__ == "__main__":
     else:
         print("Not a valid option")
     
-    # EXAMPLE
     result = sum_negative_between_max_min(A)
     print("Negative elements sum between min и max:", result)
